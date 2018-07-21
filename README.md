@@ -18,18 +18,18 @@ function.
 function that takes an integer number.
 
 6. Write a menu driven program with the following menus:-
-1. Add
-2. Difference
-3. Product
-4. Division
+ . Add
+ . Difference
+ . Product
+ . Division
 Use functions for each of the menu with proper arguments, return type
 and function name.
 
 7. Write a menu driven program with the following menus:-
-1. Area of circle
-2. Perimeter of circle
-3. Area of rectangle
-4. Perimeter of a rectangle
+  . Area of circle
+  . Perimeter of circle
+  . Area of rectangle
+  . Perimeter of a rectangle
 Use functions for each of the menu with proper arguments, return type
 and function name.
 
