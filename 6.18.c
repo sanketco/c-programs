@@ -4,6 +4,7 @@ factorials of all its digits is equal to the number itself.
 For example: 145 = 1! + 4! + 5! = 1 + 24 + 120 = 145
 */
 
+
 #include<stdio.h>
 int main(){
   int num,i,f,r,s=0,temp;
